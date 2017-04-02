@@ -2,9 +2,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="vselfa.borsatreball.MainActivity">
-    <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+
+
+    <item android:id="@+id/alta" android:title="@string/alta"    android:orderInCategory="90"/>
+    <item android:id="@+id/ofertes" android:title="@string/ofertes" android:orderInCategory="90"/>
+    <item android:id="@+id/inici" android:title="@string/inici"    android:orderInCategory="100"/>
 </menu>

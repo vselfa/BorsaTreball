@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">BorsaTreball</string>
+    <string name="app_name">Borsa de Treball</string>
     <string name="action_settings">Settings</string>
+    <string name="alta">Alta</string>
+    <string name="ofertes">Ofertes treball</string>
+    <string name="inici">Inici</string>
 </resources>
